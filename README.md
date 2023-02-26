@@ -1,4 +1,5 @@
-[![tanvk1ch1's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvk1ch1)](https://github.com/tanvk1ch1/github-readme-stats)
+[![tanvk1ch1's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvk1ch1&show_icons=true&theme=ocean_dark)](https://github.com/tanvk1ch1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvk1ch1&theme=ocean_dark&layout=compact})](https://github.com/tanvk1ch1/github-readme-stats)
 
 <!--### Hi there 👋-->
 
