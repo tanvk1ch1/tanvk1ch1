@@ -3,6 +3,8 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvk1ch1&layout=compact&show_icons=true&theme=ocean_dark" />
 </p>
 
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=tanvk1ch1&repo=AssetLoadSystem)
+
 <!--### Hi there 👋-->
 
 <!--
