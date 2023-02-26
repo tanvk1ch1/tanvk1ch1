@@ -1,4 +1,6 @@
-### Hi there 👋
+[![tanvk1ch1's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvk1ch1)](https://github.com/tanvk1ch1/github-readme-stats)
+
+<!--### Hi there 👋-->
 
 <!--
 **tanvk1ch1/tanvk1ch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
