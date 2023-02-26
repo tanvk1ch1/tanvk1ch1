@@ -3,10 +3,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvk1ch1&layout=compact&show_icons=true&theme=ocean_dark" />
 </p>
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=tanvk1ch1&repo=resume&theme=ocean_dark)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=tanvk1ch1&repo=AssetLoadSystem&theme=ocean_dark)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=tanvk1ch1&repo=GraphicsAcademy_Study&theme=ocean_dark)
-
 <!--### Hi there 👋-->
 
 <!--
